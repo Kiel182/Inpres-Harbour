@@ -1,4 +1,4 @@
-package applicapitainerie;
+package Capitainerie;
 
 import Guis.*;
 
