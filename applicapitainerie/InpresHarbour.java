@@ -7,6 +7,6 @@ public class InpresHarbour
         CapitainerieFrame CapiFrame = new CapitainerieFrame();
         DialLogin Login = new DialLogin(CapiFrame, true);
         
-        Login.show();
+        Login.setVisible(true);
     }
 }
