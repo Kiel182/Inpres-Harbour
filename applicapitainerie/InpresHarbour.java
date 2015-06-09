@@ -1,3 +1,5 @@
+package applicapitainerie;
+
 import Guis.*;
 
 public class InpresHarbour 
